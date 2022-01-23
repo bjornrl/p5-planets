@@ -1,3 +1,6 @@
+/* Based on Gruselhaus website/CodingChallenges/CC_008_SolarSystemGenerator3D/P5/
+Parameters have been tweeked */
+
 let sun;
 let cam;
 
